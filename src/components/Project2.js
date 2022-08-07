@@ -6,7 +6,7 @@ function Project2() {
     <div 
         class="card" 
         style={{width:"18rem", height:"33rem", padding:"22px", marginLeft:"17rem"}}>
-        <img src="" class="img-fluid rounded" alt="profile"/>
+        <img src={img3} class="img-fluid rounded" alt="profile"/>
         <div class="card-body">
             <a 
                 href="https://github.com/hasanaimroatun/wpu-myGalleryChallenge/blob/main/index.html" 
