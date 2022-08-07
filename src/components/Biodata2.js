@@ -6,13 +6,13 @@ function Biodata2() {
   return (
     <div class="card" style={{width:"18rem", height:"33rem", padding:"22px", marginLeft:"17rem"}}>
         <img src={img1} class="card-img-top rounded" alt="profile"/>
-        <div class="card-body">
-            <h5 
-                class="card-title"
-                style={{
-                    position:"relative",
-                    left:"-15px"
-                }}>
+        <div 
+            class="card-body"
+            style={{
+                position:"relative",
+                left:"-15px"
+            }}>
+            <h5 class="card-title">
                     Rodney Cotton
             </h5>
             <p class="card-text">
@@ -20,7 +20,6 @@ function Biodata2() {
                     class="text-muted"
                     style={{
                         position:"relative",
-                        left:"-15px",
                         top:"-10px"
                     }}>
                     Front-end developer
@@ -31,7 +30,6 @@ function Biodata2() {
                     class="text-muted"
                     style={{
                         position:"relative",
-                        left:"-15px",
                         top:"-15px"
                     }}>
                     <MdMail /> rodney@example.com
@@ -42,7 +40,6 @@ function Biodata2() {
                     class="text-muted"
                     style={{
                         position:"relative",
-                        left:"-15px",
                         top:"-33px"
                     }}>
                     <MdPhone /> (+603) 546 624 342
@@ -52,7 +49,6 @@ function Biodata2() {
                 class="card-text text-muted"
                 style={{
                     position:"relative",
-                    left:"-15px",
                     top:"-30px"
                 }}>
                 Self-motivated developer, who is willing to learn and create outstanding UI applications.

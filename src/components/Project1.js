@@ -9,13 +9,18 @@ function Project1() {
             width:"50rem", 
             height:"20rem", 
             margin:"30px auto", 
-            padding:"22px"
+            paddingLeft:"22px"
             }}>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div 
+                class="col-md-5"
+                style={{
+                    position:"relative",
+                    top:"18px"
+            }}>
             <img src={img2} class="img-fluid rounded" alt="profile"/>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
             <div class="card-body">
                 <a 
                     href="https://github.com/hasanaimroatun/wpu-TeamPageChallenge/blob/main/index.html" 
