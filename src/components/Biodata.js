@@ -5,11 +5,11 @@ import {MdPhone, MdMail} from 'react-icons/md'
 function Biodata() {
   return (
     <div 
-        class="card mb-3" 
+        class="card mb-3 mt-3" 
         style={{
             width:"50rem", 
             height:"15rem", 
-            margin:"30px auto", 
+            marginLeft:"20px", 
             padding:"22px"
             }}>
         <div class="row g-0">

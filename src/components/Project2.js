@@ -5,7 +5,7 @@ function Project2() {
   return (
     <div 
         class="card" 
-        style={{width:"18rem", height:"39rem", padding:"22px", marginLeft:"17rem"}}>
+        style={{width:"18rem", height:"39rem", padding:"22px", marginLeft:"20px"}}>
         <img src={img3} class="img-fluid rounded" alt="profile"/>
         <div 
             class="card-body"
@@ -15,17 +15,20 @@ function Project2() {
             }}>
             <a 
                 href="https://github.com/hasanaimroatun/wpu-myGalleryChallenge/blob/main/index.html" 
-                class="card-link">
+                class="card-link"
+                style={{color:"inherit", textDecoration:"none"}}>
                 #HTML
             </a>
             <a 
                 href="https://github.com/hasanaimroatun/wpu-myGalleryChallenge/blob/main/css/style.css" 
-                class="card-link">
+                class="card-link"
+                style={{color:"inherit", textDecoration:"none"}}>
                     #CSS
             </a>
             <a 
                 href="https://github.com/hasanaimroatun/wpu-myGalleryChallenge/blob/main/css/style.css" 
-                class="card-link">
+                class="card-link"
+                style={{color:"inherit", textDecoration:"none"}}>
                     #responsive
             </a>
             <br/><br/>

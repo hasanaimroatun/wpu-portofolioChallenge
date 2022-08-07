@@ -7,8 +7,8 @@ function Project1() {
         class="card mb-3" 
         style={{
             width:"50rem", 
-            height:"20rem", 
-            margin:"30px auto", 
+            height:"20rem",
+            marginLeft:"20px",
             paddingLeft:"22px"
             }}>
         <div class="row g-0">
@@ -24,17 +24,20 @@ function Project1() {
             <div class="card-body">
                 <a 
                     href="https://github.com/hasanaimroatun/wpu-TeamPageChallenge/blob/main/index.html" 
-                    class="card-link">
+                    class="card-link"
+                    style={{color:"inherit", textDecoration:"none"}}>
                     #HTML
                 </a>
                 <a 
                     href="https://github.com/hasanaimroatun/wpu-TeamPageChallenge/blob/main/css/style.css" 
-                    class="card-link">
+                    class="card-link"
+                    style={{color:"inherit", textDecoration:"none"}}>
                         #CSS
                 </a>
                 <a 
                     href="https://github.com/hasanaimroatun/wpu-TeamPageChallenge/blob/main/css/style.css" 
-                    class="card-link">
+                    class="card-link"
+                    style={{color:"inherit", textDecoration:"none"}}>
                         #responsive
                 </a>
                 <br/><br/>

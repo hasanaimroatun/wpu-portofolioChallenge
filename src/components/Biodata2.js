@@ -4,7 +4,7 @@ import {MdPhone, MdMail} from 'react-icons/md'
 
 function Biodata2() {
   return (
-    <div class="card" style={{width:"18rem", height:"33rem", padding:"22px", marginLeft:"17rem"}}>
+    <div class="card mb-3" style={{width:"18rem", height:"33rem", padding:"22px", marginLeft:"20px"}}>
         <img src={img1} class="card-img-top rounded" alt="profile"/>
         <div 
             class="card-body"
