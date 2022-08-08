@@ -14,12 +14,12 @@
                     <div class="card-body">
                         <p class="card-text">
                             <small class="text-muted">
-                                    Blog
+                                Blog
                             </small>
-                            </p>
-                            <h5 class="card-title">
-                                    How to organize your CSS
-                            </h5>               
+                        </p>
+                        <h5 class="card-title">
+                            How to organize your CSS
+                        </h5>               
                     </div>
                 </div>
                 <div class="col-md-7 mt-4">
