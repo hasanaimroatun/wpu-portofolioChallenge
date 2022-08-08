@@ -7,6 +7,10 @@ import Skill1 from './components/Skill1'
 import Skill2 from './components/Skill2'
 import Blog from './components/Blog'
 import Blog2 from './components/Blog2'
+import Pengalaman1 from './components/Pengalaman1'
+import Pengalaman2 from './components/Pengalaman2'
+import Hobi1 from './components/Hobi1'
+import Hobi2 from './components/Hobi2'
 
 function App() {
   return (
@@ -19,6 +23,10 @@ function App() {
       <Skill2 />
       <Blog />
       <Blog2 />
+      <Pengalaman1 />
+      <Pengalaman2 />
+      <Hobi1 />
+      <Hobi2 />
     </div>
   )
 }
