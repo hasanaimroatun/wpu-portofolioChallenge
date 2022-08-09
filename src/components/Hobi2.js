@@ -8,7 +8,7 @@ function Hobi2() {
     <div 
         class="card mb-3 mt-3" 
         style={{
-            width:"18rem",  
+            width:"20rem",  
             marginLeft:"20px"
             }}>
         <h5 

@@ -7,83 +7,42 @@ function Biodata() {
     <div 
         class="card mb-3 mt-3" 
         style={{
-            width:"50rem", 
-            height:"15rem", 
+            width:"77rem", 
             marginLeft:"20px", 
-            padding:"22px"
             }}>
         <div class="row g-0">
-            <div class="col-md-3">
+            <div class="col-md-3 m-3">
             <img src={img1} class="img-fluid rounded" alt="profile"/>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-8">
             <div class="card-body">
                 <div class="row g-0">
                     <div class="col-md-6">
-                        <h5 
-                            class="card-title" 
-                            style={{
-                                position:"relative", 
-                                top:"-20px"
-                                }}>
-                                    Rodney Cotton
-                        </h5>
+                        <h4 class="card-title" >
+                            Rodney Cotton
+                        </h4>
+                        <p class="card-text text-muted">
+                            Front-end developer
+                        </p>
                     </div>
-                    <div class="col-md-4 offset-2">
-                        <p class="card-text">
-                            <small 
-                                class="text-muted" 
-                                style={{ 
-                                    position:"relative", 
-                                    top:"-15px"
-                                    }}>
-                                <MdMail /> rodney@example.com
-                            </small>
+                    <div class="col-md-3 offset-3">
+                        <p class="card-text text-muted">
+                            <MdMail /> rodney@example.com
+                        </p>
+                        <p class="card-text text-muted">
+                            <MdPhone /> (+603) 546 624 342
                         </p>
                     </div>
                 </div>
-                <div class="row g-1">
-                    <div class="col-md-6">
-                        <p class="card-text">
-                            <small 
-                                class="text-muted" 
-                                style={{
-                                    position:"relative", 
-                                    top:"-30px"
-                                    }}>
-                                Front-end developer
-                            </small>
-                        </p>
-                    </div>
-                    <div class="col-md-4 offset-2">
-                        <p class="card-text">
-                            <small 
-                                class="text-muted" 
-                                style={{
-                                    position:"relative", 
-                                    top:"-30px"
-                                    }}>
-                                <MdPhone /> (+603) 546 624 342
-                            </small>
-                        </p>
-                    </div>
+                <br/>
+                <div class="row g-0">
+                    <p class="card-text text-muted">
+                            Self-motivated developer, who is willing to learn and create outstanding UI applications.
+                    </p>
+                    <p class="card-text text-muted" >
+                            Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.
+                    </p>
                 </div>
-                <p 
-                    class="card-text text-muted" 
-                    style={{
-                        position:"relative", 
-                        top:"-15px"
-                        }}>
-                        Self-motivated developer, who is willing to learn and create outstanding UI applications.
-                </p>
-                <p 
-                    class="card-text text-muted" 
-                    style={{
-                        position:"relative", 
-                        top:"-20px"
-                        }}>
-                        Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.
-                </p>
             </div>
             </div>
         </div>

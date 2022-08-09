@@ -5,7 +5,7 @@ function Skill2() {
     <div 
         class="card" 
         style={{
-            width:"18rem", 
+            width:"20rem", 
             height:"13rem", 
             padding:"22px", 
             marginLeft:"20px"

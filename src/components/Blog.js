@@ -6,11 +6,11 @@ function Blog() {
     <div 
         class="card mb-3 mt-3" 
         style={{
-            width:"50rem",  
+            width:"58rem",  
             marginLeft:"20px"
             }}>
         <div class="row g-0">
-            <div class="col-md-7">
+            <div class="col-md-8">
                 <div class="card-body">
                     <p class="card-text">
                         <small class="text-muted">
@@ -37,7 +37,7 @@ function Blog() {
                         </a>               
                 </div>
             </div>
-            <div class="col-md-5 mt-3">
+            <div class="col-md-4 mt-1">
                 <img src={img4} class="img-fluid rounded-start" alt="blog"/>
             </div>
         </div>
