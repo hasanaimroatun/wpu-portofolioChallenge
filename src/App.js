@@ -11,6 +11,9 @@ import Pengalaman1 from './components/Pengalaman1'
 import Pengalaman2 from './components/Pengalaman2'
 import Hobi1 from './components/Hobi1'
 import Hobi2 from './components/Hobi2'
+import ButtonUtama from './components/ButtonUtama'
+import ButtonUtama2 from './components/ButtonUtama2'
+import Portofolio1 from './components/Portofolio1'
 
 function App() {
   return (
@@ -27,6 +30,9 @@ function App() {
       <Pengalaman2 />
       <Hobi1 />
       <Hobi2 />
+      <ButtonUtama />
+      <ButtonUtama2 />
+      <Portofolio1 />
     </div>
   )
 }
