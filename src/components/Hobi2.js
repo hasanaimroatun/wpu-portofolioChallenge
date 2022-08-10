@@ -5,12 +5,7 @@ import img3 from './pic/hobi3.png'
 
 function Hobi2() {
   return (
-    <div 
-        class="card mb-3 mt-3" 
-        style={{
-            width:"20rem",  
-            marginLeft:"20px"
-            }}>
+    <div class="card mb-3">
         <h5 
             class="card-title mt-3"
             style={{

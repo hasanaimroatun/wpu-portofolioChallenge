@@ -5,11 +5,7 @@ import {MdPhone, MdMail} from 'react-icons/md'
 function Biodata() {
   return (
     <div 
-        class="card mb-3 mt-3" 
-        style={{
-            width:"77rem", 
-            marginLeft:"20px", 
-            }}>
+        class="card">
         <div class="row g-0">
             <div class="col-md-3 m-3">
             <img src={img1} class="img-fluid rounded" alt="profile"/>
@@ -25,7 +21,7 @@ function Biodata() {
                             Front-end developer
                         </p>
                     </div>
-                    <div class="col-md-3 offset-3">
+                    <div class="col-md-4 offset-2">
                         <p class="card-text text-muted">
                             <MdMail /> rodney@example.com
                         </p>

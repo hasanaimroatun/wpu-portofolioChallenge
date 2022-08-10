@@ -5,12 +5,7 @@ import img3 from './pic/nivea logo.png'
 
 function Pengalaman1() {
   return (
-    <div 
-        class="card mb-3" 
-        style={{
-            width:"58rem",  
-            marginLeft:"20px",
-        }}>
+    <div class="card mb-2">
         <h5 
             class="card-title mt-3"
             style={{

@@ -3,12 +3,9 @@ import React from 'react'
 function Skill2() {
   return (
     <div 
-        class="card" 
-        style={{
-            width:"20rem", 
-            height:"13rem", 
-            padding:"22px", 
-            marginLeft:"20px"
+        class="card mb-2" 
+        style={{ 
+            padding:"22px"
         }}>
         <h6 class="card-title">
             FRONT END
@@ -22,7 +19,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 
@@ -44,7 +41,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 
@@ -66,7 +63,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 
@@ -88,7 +85,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 
@@ -110,7 +107,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 
@@ -132,7 +129,7 @@ function Skill2() {
                 </p>
             </div>
             <div class="col-md-8">
-                <div class="progress mt-2" style={{height:"10px"}}>
+                <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
                         role="progressbar" 

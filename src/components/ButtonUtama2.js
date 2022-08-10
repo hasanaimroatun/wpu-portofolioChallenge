@@ -2,21 +2,15 @@ import React, { useState } from 'react'
 import Blog from './Blog'
 
 function ButtonUtama2() {
-    const [tampilkanBlog, setTampilkanBlog] = useState()
+    const [tampilkanBlog, setTampilkanBlog] = useState(false)
 
     const handleClick = () => {
-        setTampilkanBlog(
-            <Blog />
-        )
+        setTampilkanBlog(!tampilkanBlog)
     }
   return (
     <div>
         <div 
-            class="card mb-3"
-            style={{
-                width:"58rem",
-                marginLeft:"20px"
-            }}
+            class="card mb-2"
             onClick={handleClick}>
             <div class="card-body">
                 <p class="card-text text-muted">
@@ -24,7 +18,7 @@ function ButtonUtama2() {
                 </p>
             </div>
         </div>
-        {tampilkanBlog}
+        {tampilkanBlog? <Blog /> : null}
     </div>
   )
 }

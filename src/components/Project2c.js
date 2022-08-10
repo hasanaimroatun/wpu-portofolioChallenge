@@ -3,42 +3,43 @@ import img2 from './pic/404notFound.png'
 
 function Project2c() {
   return (
-    <div 
-        class="card" 
-        style={{width:"18rem", height:"39rem", padding:"22px", marginLeft:"20px"}}>
-        <img src={img2} class="img-fluid rounded" alt="profile"/>
-        <div 
-            class="card-body"
-            style={{
-                position:"relative",
-                left:"-15px"
-            }}>
+    <div class="card">
+        <div class="card-body">
+            <img src={img2} class="img-fluid rounded mb-2" alt="profile"/>
             <a 
                 href="https://github.com/hasanaimroatun/404new/blob/main/index.html" 
                 class="card-link"
                 style={{color:"inherit", textDecoration:"none"}}>
-                #HTML
+                <small>
+                    #HTML
+                </small>
             </a>
             <a 
                 href="https://github.com/hasanaimroatun/404new/blob/main/css/style.css" 
                 class="card-link"
                 style={{color:"inherit", textDecoration:"none"}}>
+                <small>
                     #CSS
+                </small>
             </a>
             <a 
                 href="https://github.com/hasanaimroatun/404new/blob/main/css/style.css" 
                 class="card-link"
                 style={{color:"inherit", textDecoration:"none"}}>
+                <small>
                     #responsive
+                </small>
             </a>
             <br/><br/>
             <h5 class="card-title">
                 404 Not Found
             </h5>
             <p class="card-text text-muted">
-                In this project, I work with HTML and CSS to create a responsive page . 
-                The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                Quisque feugiat malesuada molestie. 
+                <small>
+                    In this project, I work with HTML and CSS to create a responsive page . 
+                    The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
+                    Quisque feugiat malesuada molestie.
+                </small>
             </p>
             <br/>
             <span>

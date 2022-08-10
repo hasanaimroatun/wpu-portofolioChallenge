@@ -3,12 +3,7 @@ import img4 from './pic/blog.png'
 
 function Blog() {
   return (
-    <div 
-        class="card mb-3 mt-3" 
-        style={{
-            width:"58rem",  
-            marginLeft:"20px"
-            }}>
+    <div class="card mb-3">
         <div class="row g-0">
             <div class="col-md-8">
                 <div class="card-body">

@@ -23,11 +23,11 @@ function ButtonUtama() {
     const handleClick3 = () => {
         setTampilkanResponsive(
             <div>
-                <div class="row g-0" style={{width:"60rem"}}>
-                    <div class="col-md-4">
+                <div class="row g-0" style={{width:"47rem"}}>
+                    <div class="col-md-4" style={{paddingRight:"0.5rem"}}>
                         <Project2c />
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4" style={{paddingRight:"0.5rem"}}>
                         <Project2 />
                     </div>
                     <div class="col-md-4">
@@ -41,11 +41,7 @@ function ButtonUtama() {
   return (
     <div>
         <div 
-            class="card mb-3"
-            style={{
-                width:"58rem",
-                marginLeft:"20px"
-            }}
+            class="card mb-2"
             onClick={handleClick}> 
             <div class="card-body">
                 <p class="card-text text-muted">
