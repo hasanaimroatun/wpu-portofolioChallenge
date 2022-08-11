@@ -11,14 +11,14 @@ function Skill2() {
             FRONT END
         </h6>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         React
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
@@ -33,14 +33,14 @@ function Skill2() {
             </div>
         </div>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         Javascript
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
@@ -55,14 +55,14 @@ function Skill2() {
             </div>
         </div>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         CSS
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
@@ -77,14 +77,14 @@ function Skill2() {
             </div>
         </div>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         Vue
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
@@ -99,14 +99,14 @@ function Skill2() {
             </div>
         </div>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         Redux
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 
@@ -121,14 +121,14 @@ function Skill2() {
             </div>
         </div>
         <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-5 col-sm-4">
                 <p class="card-text text-muted">
                     <small>
                         React Native
                     </small>
                 </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-sm-8">
                 <div class="progress mt-2" style={{height:"8px"}}>
                     <div 
                         class="progress-bar" 

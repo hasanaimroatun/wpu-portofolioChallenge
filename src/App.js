@@ -3,7 +3,7 @@ import Portofolio1 from './components/Portofolio1'
 
 function App() {
   return (
-    <div>
+    <div class="container-fluid">
       <Portofolio1 />
     </div>
   )

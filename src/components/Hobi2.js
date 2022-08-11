@@ -14,65 +14,71 @@ function Hobi2() {
             Hobbies
         </h5>
         <div class="card-body">
-            <div class="row g-0">
+            <div class="row g-0 mt-2" style={{columnGap:"1rem"}}>
                 <img 
                     src={img1} 
-                    class="img-fluid rounded" 
+                    class="img-fluid rounded col-md-12 col-sm-6 mb-3" 
                     alt="painting"
                 />
-                <h6 class="card-title mt-3">
-                    Painting
-                </h6>
-                <p 
-                    class="card-text text-muted"
-                    style={{
-                        position:"relative",
-                        top:"-8px"
-                    }}>
-                    <small>
-                        Quisque feugiat malesuada molestie.
-                    </small>
-                </p>
+                <div class=" col-md-12 col-sm-5">
+                    <h6 class="card-title">
+                        Painting
+                    </h6>
+                    <p 
+                        class="card-text text-muted"
+                        style={{
+                            position:"relative",
+                            top:"-8px"
+                        }}>
+                        <small>
+                            Quisque feugiat malesuada molestie.
+                        </small>
+                    </p>
+                </div>
             </div>
-            <div class="row g-0 mt-4">
+            <div class="row g-0 mt-4" style={{columnGap:"1rem"}}>
                 <img 
                     src={img2} 
-                    class="img-fluid rounded"
+                    class="img-fluid rounded col-md-12 col-sm-6 mb-3"
                     alt="gardening"
                 />
-                <h6 class="card-title mt-3">
-                    Gardening
-                </h6>
-                <p 
-                    class="card-text text-muted"
-                    style={{
-                        position:"relative",
-                        top:"-8px"
-                    }}>
-                    <small>
-                        Quisque feugiat malesuada molestie.
-                    </small>
-                </p>
+                <div class=" col-md-12 col-sm-5"> 
+                    <h6 class="card-title">
+                        Gardening
+                    </h6>
+                    <p 
+                        class="card-text text-muted"
+                        style={{
+                            position:"relative",
+                            top:"-8px"
+                        }}>
+                        <small>
+                            Quisque feugiat malesuada molestie.
+                        </small>
+                    </p>
+                </div>
             </div>
-            <div class="row g-0 mt-4">
+            <div class="row g-0 mt-4" style={{columnGap:"1rem"}}>
                 <img 
                     src={img3} 
-                    class="img-fluid rounded"
+                    class="img-fluid rounded col-md-12 col-sm-6 mb-3"
                     alt="reading"
                 />
-                <h6 class="card-title mt-3">
-                    Reading Novels
-                </h6>
-                <p 
-                    class="card-text text-muted"
-                    style={{
-                        position:"relative",
-                        top:"-8px"
-                    }}>
-                    <small>
-                        Quisque feugiat malesuada molestie.
-                    </small>
-                </p>
+                <div class=" col-md-12 col-sm-5"> 
+                    <h6 class="card-title">
+                        Reading Novels
+                    </h6>
+                    <p 
+                        class="card-text text-muted"
+                        style={{
+                            position:"relative",
+                            top:"-8px"
+                        }}>
+                        <small>
+                            Quisque feugiat malesuada molestie.
+                        </small>
+                    </p>
+                </div>
             </div>
         </div>
     </div>

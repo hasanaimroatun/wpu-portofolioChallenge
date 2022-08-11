@@ -5,7 +5,7 @@ import Project2c from './Project2c'
 
 function ButtonUtama() {
     const [isOpen, setIsOpen] = useState(false)
-    const [tampilkanResponsive, setTampilkanResponsive] = useState()
+    const [tampilkanResponsive, setTampilkanResponsive] = useState(false)
     const [tampilkanReact, setTampilkanReact] = useState()
 
     const handleClick = () => {
@@ -21,23 +21,9 @@ function ButtonUtama() {
     }
 
     const handleClick3 = () => {
-        setTampilkanResponsive(
-            <div>
-                <div class="row g-0" style={{width:"47rem"}}>
-                    <div class="col-md-4" style={{paddingRight:"0.5rem"}}>
-                        <Project2c />
-                    </div>
-                    <div class="col-md-4" style={{paddingRight:"0.5rem"}}>
-                        <Project2 />
-                    </div>
-                    <div class="col-md-4">
-                        <Project2b />
-                    </div>
-                </div>
-                {setTampilkanReact()}
-            </div>
-        )
+        setTampilkanResponsive(true)
     }
+
   return (
     <div>
         <div 
@@ -70,7 +56,22 @@ function ButtonUtama() {
             </div>
         </div>
         {tampilkanReact}
-        {tampilkanResponsive}
+        {tampilkanResponsive? 
+                <div>
+                    <div class="row g-3">
+                        <div class="col">
+                            <Project2c />
+                        </div>
+                        <div class="col">
+                            <Project2 />
+                        </div>
+                        <div class="col">
+                            <Project2b />
+                        </div>
+                    </div>
+                </div>
+                : null
+        }
     </div>
   )
 }

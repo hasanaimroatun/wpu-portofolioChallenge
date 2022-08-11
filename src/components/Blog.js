@@ -5,14 +5,14 @@ function Blog() {
   return (
     <div class="card mb-3">
         <div class="row g-0">
-            <div class="col-md-8">
+            <div class="col-md-8 col-sm-7">
                 <div class="card-body">
                     <p class="card-text">
                         <small class="text-muted">
                                 Blog
                         </small>
                         </p>
-                        <h5 class="card-title col-md-4">
+                        <h5 class="card-title col-md-4 col-sm-8">
                                 How to organize your CSS
                         </h5>
                         <p class="card-text text-muted">
@@ -32,7 +32,7 @@ function Blog() {
                         </a>               
                 </div>
             </div>
-            <div class="col-md-4 mt-1">
+            <div class="col-md-4 col-sm-5 mt-1">
                 <img src={img4} class="img-fluid rounded-start" alt="blog"/>
             </div>
         </div>

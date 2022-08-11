@@ -14,15 +14,15 @@ function Pengalaman1() {
             Experiences
         </h5>
         <div class="card-body">
-            <div class="row g-0">
+            <div class="row g-0" style={{rowGap:"2rem"}}>
                 <div 
-                    class="col-md-1 mt-3"
+                    class="col-md-1 col-sm-2 mt-3"
                     style={{
                         paddingRight:"15px"
                     }}>
                     <img src={img1} class="img-fluid rounded" alt="adidas logo"/>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
                             Feb 2017 - Current
@@ -43,13 +43,13 @@ function Pengalaman1() {
                     </p>
                 </div>
                 <div 
-                    class="col-md-1 mt-3"
+                    class="col-md-1 col-sm-2 mt-3"
                     style={{
                         paddingRight:"15px"
                     }}>
                     <img src={img2} class="img-fluid rounded" alt="hnm logo"/>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
                             Aug 2016 - Feb 2018
@@ -70,13 +70,13 @@ function Pengalaman1() {
                     </p>
                 </div>
                 <div 
-                    class="col-md-1 mt-3"
+                    class="col-md-1 col-sm-2 mt-3"
                     style={{
                         paddingRight:"15px"
                     }}>
                     <img src={img3} class="img-fluid rounded" alt="nivea logo"/>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
                             Jun 2015 - Aug 2016

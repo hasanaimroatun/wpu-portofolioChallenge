@@ -6,14 +6,16 @@ function Biodata() {
   return (
     <div 
         class="card">
-        <div class="row g-0">
-            <div class="col-md-3 m-3">
-            <img src={img1} class="img-fluid rounded" alt="profile"/>
+        <div class="row">
+            <div class="col-md-3 col-sm-4">
+                <div class="card-body">
+                    <img src={img1} class="img-fluid rounded" alt="profile"/>
+                </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8 col-sm-7">
             <div class="card-body">
                 <div class="row g-0">
-                    <div class="col-md-6">
+                    <div class="col-md-8 col-sm-12">
                         <h4 class="card-title" >
                             Rodney Cotton
                         </h4>
@@ -21,7 +23,7 @@ function Biodata() {
                             Front-end developer
                         </p>
                     </div>
-                    <div class="col-md-4 offset-2">
+                    <div class="col-md-4 col-sm-12 mt-2">
                         <p class="card-text text-muted">
                             <MdMail /> rodney@example.com
                         </p>

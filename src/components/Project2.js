@@ -3,7 +3,7 @@ import img3 from './pic/myGallery.png'
 
 function Project2() {
   return (
-    <div class="card">
+    <div class="card col-md-12 col-sm-12">
         <div class="card-body">
             <img src={img3} class="img-fluid rounded mb-2" alt="profile"/>
             <a 

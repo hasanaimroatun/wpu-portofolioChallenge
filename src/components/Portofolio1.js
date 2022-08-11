@@ -9,9 +9,9 @@ import ButtonUtama from './ButtonUtama'
 function Portofolio1() {
   return (
     <div class="row g-0">
-        <div class="col-md-10 offset-1">
+        <div class="col-md-10  col-sm-10 offset-1">
             <div class="row g-0">
-                <div class="col-md-11 m-2">
+                <div class="col-md-11 mb-2 mt-2">
                     <Biodata />
                 </div>
             </div>
