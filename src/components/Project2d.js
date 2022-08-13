@@ -36,9 +36,10 @@ function Project2d() {
             </h5>
             <p class="card-text text-muted">
                 <small>
-                    In this project, I work with HTML and CSS to create a responsive page . 
-                    The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                    Quisque feugiat malesuada molestie.
+                    In this project, I work with HTML, CSS, and javascript in React to create a responsive page . 
+                    The design is from devchallenge.io. 
+                    This page generate a new random quote with quote genre under the author. 
+                    When you select quote author, you can see a list of quotes from them.
                 </small> 
             </p>
             <br/>

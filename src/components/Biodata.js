@@ -35,10 +35,10 @@ function Biodata() {
                 <br/>
                 <div class="row g-0">
                     <p class="card-text text-muted">
-                            Self-motivated developer, who is willing to learn and create outstanding UI applications.
+                        Self-motivated developer, who is willing to learn and create outstanding UI applications.
                     </p>
                     <p class="card-text text-muted" >
-                            Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.
+                        Ready to help team achieve company goals. To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills
                     </p>
                 </div>
             </div>

@@ -37,8 +37,9 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                            Quisque feugiat malesuada molestie.
+                            Developing new user-facing features,  
+                            building reusable codes,  
+                            and using a variety of markup languages to create the web pages.
                         </small>
                     </p>
                 </div>
@@ -64,8 +65,8 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                            Quisque feugiat malesuada molestie.
+                            Designing user interactions on websites and 
+                            developing servers and databases for website functionality. 
                         </small>
                     </p>
                 </div>
@@ -91,8 +92,7 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                            Quisque feugiat malesuada molestie.
+                            Work with designers to ensure high-quality graphic standards and brand consistency.
                         </small>
                     </p>
                 </div>

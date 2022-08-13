@@ -31,7 +31,7 @@ function Hobi2() {
                             top:"-8px"
                         }}>
                         <small>
-                            Quisque feugiat malesuada molestie.
+                            Painting can develops the creativity
                         </small>
                     </p>
                 </div>
@@ -53,7 +53,7 @@ function Hobi2() {
                             top:"-8px"
                         }}>
                         <small>
-                            Quisque feugiat malesuada molestie.
+                            Gardening can regulates mood, anxiety, and happiness.
                         </small>
                     </p>
                 </div>
@@ -75,7 +75,7 @@ function Hobi2() {
                             top:"-8px"
                         }}>
                         <small>
-                            Quisque feugiat malesuada molestie.
+                            Reading novels can improves a capacity to understand what others are thinking and feeling.
                         </small>
                     </p>
                 </div>

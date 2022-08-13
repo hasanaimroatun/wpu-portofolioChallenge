@@ -36,9 +36,10 @@ function Project2e() {
             </h5>
             <p class="card-text text-muted">
                 <small>
-                    In this project, I work with HTML and CSS to create a responsive page . 
-                    The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                    Quisque feugiat malesuada molestie.
+                    In this project, I work with HTML, CSS, and Javascript in React to create a responsive page . 
+                    The design is from devchallenge.io. 
+                    This page consist of apartment lists in Findland with details: name, rating, apartment type, and super host.
+                    You can filter the location and number of guests with the given button.
                 </small> 
             </p>
             <br/>

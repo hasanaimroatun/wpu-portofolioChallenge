@@ -37,8 +37,8 @@ function Project2() {
             <p class="card-text text-muted">
                 <small>
                     In this project, I work with HTML and CSS to create a responsive page . 
-                    The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. 
-                    Quisque feugiat malesuada molestie.
+                    The design is from devchallenge.io. 
+                    In this page, you can see the gallery with profile details, number of posts, followers, and following. 
                 </small> 
             </p>
             <br/>
