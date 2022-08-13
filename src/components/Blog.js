@@ -23,7 +23,7 @@ function Blog() {
                                 Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.
                         </p>
                         <a 
-                            href="https://github.com/hasanaimroatun/wpu-TeamPageChallenge/blob/main/index.html" 
+                            href="https://not-found-challenge-fd107.web.app" 
                             class="card-link"
                             style={{textDecoration:"none"}}>
                             <small>
