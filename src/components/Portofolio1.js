@@ -5,6 +5,7 @@ import Hobi2 from './Hobi2'
 import Pengalaman1 from './Pengalaman1'
 import ButtonUtama2 from './ButtonUtama2'
 import ButtonUtama from './ButtonUtama'
+import CreatedBy from './CreatedBy'
 
 function Portofolio1() {
   return (
@@ -36,6 +37,9 @@ function Portofolio1() {
                     </div>
                 </div>
             </div>
+        </div>
+        <div>
+            <CreatedBy />
         </div>
     </div>
   )
