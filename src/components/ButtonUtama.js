@@ -77,18 +77,12 @@ function ButtonUtama() {
             <div>
                 <div class="row g-3 mb-3">
                     <div class="col">
-                        <Project2d />
+                        <Project2 />
+                        <Project2e /> 
                     </div>
-                    <div class="col">
-                        <Project2e />
-                    </div>
-                </div>
-                <div class="row g-3 mb-3">
                     <div class="col">
                         <Project2c />
-                    </div>
-                    <div class="col">
-                        <Project2 />
+                        <Project2d /> 
                     </div>
                     <div class="col">
                         <Project2b />
