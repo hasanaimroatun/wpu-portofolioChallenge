@@ -3,7 +3,6 @@ import Biodata from './Biodata'
 import Skill2 from './Skill2'
 import Hobi2 from './Hobi2'
 import Pengalaman1 from './Pengalaman1'
-import ButtonUtama2 from './ButtonUtama2'
 import ButtonUtama from './ButtonUtama'
 import CreatedBy from './CreatedBy'
 
@@ -28,9 +27,6 @@ function Portofolio1() {
                 <div class="col-md-8">
                     <div class="row g-0">
                         <Pengalaman1 />
-                    </div>
-                    <div class="row g-0">
-                        <ButtonUtama2 />
                     </div>
                     <div class="row g-0">
                         <ButtonUtama />
