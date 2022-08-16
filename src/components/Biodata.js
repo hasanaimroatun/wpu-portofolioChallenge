@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from './pic/profilePhoto.png'
+import img1 from './pic/profile2.png'
 import {MdPhone, MdMail} from 'react-icons/md'
 
 function Biodata() {
@@ -7,28 +7,31 @@ function Biodata() {
     <div 
         class="card">
         <div class="row">
-            <div class="col-md-3 col-sm-4">
+            <div class="col-md-3 col-sm-12">
                 <div class="card-body">
                     <img src={img1} class="img-fluid rounded" alt="profile"/>
                 </div>
             </div>
-            <div class="col-md-8 col-sm-7">
+            <div class="col-md-8 col-sm-12">
             <div class="card-body">
                 <div class="row g-0">
-                    <div class="col-md-8 col-sm-12">
+                    <div class="col-md-7 col-sm-6">
                         <h4 class="card-title" >
-                            Rodney Cotton
+                            Imroatun Hasana
                         </h4>
                         <p class="card-text text-muted">
                             Front-end developer
                         </p>
                     </div>
-                    <div class="col-md-4 col-sm-12 mt-2">
+                    <div class="col-md-5 col-sm-7 mt-2">
                         <p class="card-text text-muted">
-                            <MdMail /> rodney@example.com
+                            <MdMail /> imroatunhasana@gmail.com
                         </p>
-                        <p class="card-text text-muted">
-                            <MdPhone /> (+603) 546 624 342
+                        <p 
+                            class="card-text text-muted" 
+                            style={{position: "relative", marginTop: "-15px"}}
+                        >
+                            <MdPhone /> (+62) 82244814384
                         </p>
                     </div>
                 </div>
