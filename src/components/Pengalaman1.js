@@ -1,7 +1,7 @@
 import React from 'react'
-import img1 from './pic/adidas logo.png'
-import img2 from './pic/hennes logo.png'
-import img3 from './pic/nivea logo.png'
+import img1 from './pic/ssc logo.png'
+import img2 from './pic/g2 logo.png'
+
 
 function Pengalaman1() {
   return (
@@ -25,11 +25,11 @@ function Pengalaman1() {
                 <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
-                            Feb 2017 - Current
+                            Jan 2019 - Sept 2019
                         </small>
                     </p>
                     <h6 class="card-title">
-                        Front-end developer
+                        Front Desk Receptionist
                     </h6>
                     <p 
                         class="card-text text-muted"
@@ -37,9 +37,8 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Developing new user-facing features,  
-                            building reusable codes,  
-                            and using a variety of markup languages to create the web pages.
+                            Maintained files and records by implementing effective filing systems that boosted efficiency and organization.
+                            Resolved customer issues quickly and notified supervisor immediately when problems escalated.
                         </small>
                     </p>
                 </div>
@@ -48,16 +47,16 @@ function Pengalaman1() {
                     style={{
                         paddingRight:"15px"
                     }}>
-                    <img src={img2} class="img-fluid rounded" alt="hnm logo"/>
+                    <img src={img1} class="img-fluid rounded" alt="hnm logo"/>
                 </div>
                 <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
-                            Aug 2016 - Feb 2018
+                            Jan 2018 - Sept 2019
                         </small>
                     </p>
                     <h6 class="card-title">
-                        Full-stack developer
+                        Biology Tutor
                     </h6>
                     <p 
                         class="card-text text-muted"
@@ -65,8 +64,8 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Designing user interactions on websites and 
-                            developing servers and databases for website functionality. 
+                            Reinforced concepts of basic and upper-level biology courses by searching for gaps in learning.
+                            Created skill-based assessments to test student mastery of required skills of focus.
                         </small>
                     </p>
                 </div>
@@ -75,16 +74,16 @@ function Pengalaman1() {
                     style={{
                         paddingRight:"15px"
                     }}>
-                    <img src={img3} class="img-fluid rounded" alt="nivea logo"/>
+                    <img src={img2} class="img-fluid rounded" alt="nivea logo"/>
                 </div>
                 <div class="col-md-3 col-sm-10">
                     <p class="card-text">
                         <small class="text-muted">
-                            Jun 2015 - Aug 2016
+                            Nov 2017 - Jan 2019
                         </small>
                     </p>
                     <h6 class="card-title">
-                        Junior front-end developer
+                        Biology Tutor
                     </h6>
                     <p 
                         class="card-text text-muted"
@@ -92,7 +91,8 @@ function Pengalaman1() {
                             paddingRight:"30px"
                         }}>
                         <small>
-                            Work with designers to ensure high-quality graphic standards and brand consistency.
+                            Reinforced concepts of basic and upper-level biology courses by searching for gaps in learning.
+                            Created skill-based assessments to test student mastery of required skills of focus.                        
                         </small>
                     </p>
                 </div>
