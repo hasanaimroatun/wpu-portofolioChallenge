@@ -6,7 +6,7 @@ import Project2d from './Project2d'
 import Project2e from './Project2e'
 
 function ButtonUtama() {
-    const [isOpen, setIsOpen] = useState(false)
+    const [isOpen, setIsOpen] = useState(true)
     const [tampilkanResponsive, setTampilkanResponsive] = useState(false)
     const [tampilkanReact, setTampilkanReact] = useState(false)
     const [tampilkanSemua, setTampilkanSemua] = useState(true)
