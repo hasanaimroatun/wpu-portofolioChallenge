@@ -3,8 +3,9 @@ import Biodata from './Biodata'
 import Skill2 from './Skill2'
 import Hobi2 from './Hobi2'
 import Pengalaman1 from './Pengalaman1'
-import ButtonUtama from './ButtonUtama'
+// import ButtonUtama from './ButtonUtama'
 import CreatedBy from './CreatedBy'
+import FilterButton from './FilterButton'
 
 function Portofolio1() {
   return (
@@ -29,7 +30,8 @@ function Portofolio1() {
                         <Pengalaman1 />
                     </div>
                     <div class="row g-0">
-                        <ButtonUtama />
+                        {/* <ButtonUtama /> */}
+                        <FilterButton />
                     </div>
                 </div>
             </div>
