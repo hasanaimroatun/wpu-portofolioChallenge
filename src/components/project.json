@@ -53,5 +53,27 @@
         "linkCSS": "https://github.com/hasanaimroatun/wpu-windbnbChallenge2/blob/master/src/components/myStyle.css",
         "linkDemo": "https://wind-bnb-challenge.web.app",
         "linkCode": "https://github.com/hasanaimroatun/wpu-windbnbChallenge2"
+    },
+    {
+        "id": 6,
+        "group": "responsive",
+        "title": "Interior Consultant",
+        "linkPicture": "img6",
+        "description": "In this project, I work with HTML, CSS, and Javascript to create a responsive page. The design is from devchallenge.io. This page consist of navigation bar, picture of interior design example, designer, and other details. On mobile, when you select the hamburger menu, you can see a navigation.",
+        "linkHTML": "https://github.com/hasanaimroatun/wpu-interiorConsultantChallenge/blob/master/index.html",
+        "linkCSS": "https://github.com/hasanaimroatun/wpu-interiorConsultantChallenge/blob/master/style.css",
+        "linkDemo": "https://interior-consultant-challenge-199.web.app",
+        "linkCode": "https://github.com/hasanaimroatun/wpu-interiorConsultantChallenge"
+    },
+    {
+        "id": 7,
+        "group": "responsive",
+        "title": "Recipe Page",
+        "linkPicture": "img7",
+        "description": "In this project, I work with HTML, CSS, and Javascript to create a responsive page. The design is from devchallenge.io. This page consist of recipe with ingredients and instructions with number of servings and baking times. You can select a checkbox if you have the ingredients.",
+        "linkHTML": "https://github.com/hasanaimroatun/wpu-recipePage/blob/master/index.html",
+        "linkCSS": "https://github.com/hasanaimroatun/wpu-recipePage/blob/master/style.css",
+        "linkDemo": "https://recipe-page-challenge.web.app",
+        "linkCode": "https://github.com/hasanaimroatun/wpu-recipePage"
     }
 ]
