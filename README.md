@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-portfolio-003.web.app">
       Demo
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ![screenshot](https://github.com/hasanaimroatun/wpu-portofolioChallenge/blob/master/src/components/pic/2022-08-17.png)
 
-You can see my demo on . I have no experience in website development but i have interest in this field since a few months ago. I had learned css, html, javascript, react, and bootstrap from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
+You can see my demo on https://my-portfolio-003.web.app. I have no experience in website development but i have interest in this field since a few months ago. I had learned css, html, javascript, react, and bootstrap from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
 
 ### Built With
 
