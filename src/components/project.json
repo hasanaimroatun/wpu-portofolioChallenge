@@ -75,5 +75,27 @@
         "linkCSS": "https://github.com/hasanaimroatun/wpu-recipePage/blob/master/style.css",
         "linkDemo": "https://recipe-page-challenge.web.app",
         "linkCode": "https://github.com/hasanaimroatun/wpu-recipePage"
+    },
+    {
+        "id": 8,
+        "group": "responsive",
+        "title": "Checkout Page",
+        "linkPicture": "img7",
+        "description": "In this project, I work with HTML, CSS, and Javascript to create a responsive page. The design is from devchallenge.io. This page consist of contact information and shipping address input area, picture of products along with their price, number of ordered item with shipping and total cost.",
+        "linkHTML": "https://github.com/hasanaimroatun/wpu-checkoutPageChallenge/blob/master/index.html",
+        "linkCSS": "https://github.com/hasanaimroatun/wpu-checkoutPageChallenge/blob/master/style.css",
+        "linkDemo": "https://checkout-page-challenge-003.web.app",
+        "linkCode": "https://github.com/hasanaimroatun/wpu-checkoutPageChallenge"
+    },
+    {
+        "id": 9,
+        "group": "responsive",
+        "title": "Edie Homepage",
+        "linkPicture": "img9",
+        "description": "In this project, I work with HTML, CSS, and Javascript to create a responsive page. The design is from devchallenge.io. This page consist of home, services, works, clients, and contact along with their navigation buttons. You can go to certain locations by selecting links in navigation or footer.",
+        "linkHTML": "https://github.com/hasanaimroatun/wpu-eddieHomepageChallenge/blob/master/index.html",
+        "linkCSS": "https://github.com/hasanaimroatun/wpu-eddieHomepageChallenge/blob/master/style.css",
+        "linkDemo": "https://edie-homepage-challenge-003.web.app",
+        "linkCode": "https://github.com/hasanaimroatun/wpu-eddieHomepageChallenge"
     }
 ]
