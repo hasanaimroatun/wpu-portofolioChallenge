@@ -7,9 +7,11 @@ import img4 from './pic/quote.png'
 import img5 from './pic/windbnb.png'
 import img6 from './pic/interiorConsultant.png'
 import img7 from './pic/recipePage.png'
+import img8 from './pic/checkoutPage.png'
+import img9 from './pic/edieHomePage.png'
 
 function FilterButton() {
-    const pic = [img1, img2, img3, img4, img5, img6, img7]
+    const pic = [img1, img2, img3, img4, img5, img6, img7, img8, img9]
     const [isOpen, setIsOpen] = useState(true)
     const [card, setCard] = useState(Project)
 
